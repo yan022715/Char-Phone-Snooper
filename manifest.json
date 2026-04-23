@@ -4,7 +4,6 @@
     "version": "1.0.0",
     "author": "ST-Architect",
     "main": "index.js",
-    "requires": ["1.11.0"],
     "assets": [
         "styles/mobile-phone.css",
         "styles/drag-helper.css",
