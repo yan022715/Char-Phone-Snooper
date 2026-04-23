@@ -1,0 +1,13 @@
+{
+    "name": "Char-Phone-Snooper",
+    "description": "高度沉浸的角色手机查岗模拟器。支持动态读取 {{char}} 记忆并生成真实的手机数据 (微信、备忘录等)。",
+    "version": "1.0.0",
+    "author": "ST-Architect",
+    "main": "index.js",
+    "requires": ["1.11.0"],
+    "assets": [
+        "styles/mobile-phone.css",
+        "styles/drag-helper.css",
+        "mobile-phone.html"
+    ]
+}
